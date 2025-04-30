@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class ScaleUp : MonoBehaviour
+public class Upscaler : MonoBehaviour
 {
     [SerializeField] private float _speed;
 
